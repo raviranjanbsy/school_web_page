@@ -36995,7 +36995,7 @@ k=A
 j=J
 i=J
 s=2
-return A.k(n.mE(0,"images/logo.png"),$async$pn)
+return A.k(n.mE(0,"images/school_logo.png"),$async$pn)
 case 2:m=k.brf(j.fz(i.bo0(c)))
 k=A
 j=A
@@ -133584,7 +133584,7 @@ return s.aFf(s.gwd().n6())},
 $S:748}
 A.FA.prototype={
 I(a){var s=null
-return A.dr(s,B.U,new A.dq(A.ct(A.aL(A.a([A.bjB("images/logo.png",160,160),B.b35,B.WW],t.p),B.T,s,B.d8,B.L),s,s),s),s,s)}}
+return A.dr(s,B.U,new A.dq(A.ct(A.aL(A.a([A.bjB("images/school_logo.png",160,160),B.b35,B.WW],t.p),B.T,s,B.d8,B.L),s,s),s),s,s)}}
 A.a8k.prototype={
 oc(a,b){return A.tz(b.jB($.bBm().$1(this.e.a.c.a.a),t.PQ),new A.aQT(),new A.aQU(),new A.aQV(),t.Xc,t.l7)}}
 A.aQT.prototype={
@@ -133705,7 +133705,7 @@ s=1
 break
 case 1:return A.q(q,r)}})
 return A.r($async$Rt,r)},
-I(a){var s,r,q,p,o,n=this,m=null,l=A.bjB("images/logo.png",160,m),k=A.D(a).ok.c
+I(a){var s,r,q,p,o,n=this,m=null,l=A.bjB("images/school_logo.png",160,m),k=A.D(a).ok.c
 k=A.z("Welcome Back!",m,m,m,m,k==null?m:k.C8(B.K,B.aH),B.c2,m,m)
 s=A.D(a).ok.w
 s=A.z("Sign in to your account to continue",m,m,m,m,s==null?m:s.bN(B.aQ),B.c2,m,m)
@@ -137437,7 +137437,7 @@ break
 case 6:case 1:return A.q(q,r)
 case 2:return A.p(o.at(-1),r)}})
 return A.r($async$Bq,r)},
-I(a){var s=null,r=A.aL(B.aOC,B.ak,s,B.H,B.L),q=A.bjB("images/logo.png",s,s)
+I(a){var s=null,r=A.aL(B.aOC,B.ak,s,B.H,B.L),q=A.bjB("images/school_logo.png",s,s)
 r=A.dE(A.a([A.cd(s,s,s,B.a2Y,s,s,this.gaJ5(),s,s,s,s)],t.p),s,!0,B.K,s,0,s,new A.ac(B.a02,q,s),s,r)
 q=this.x
 q===$&&A.b()
