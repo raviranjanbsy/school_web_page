@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "a3880b25f9734d551931a4b4f63eeb39",
-"assets/AssetManifest.bin.json": "6b55201c09a16068d97f06b38bd0197e",
-"assets/AssetManifest.json": "877765ca884a4a12edff8cdb0d862b58",
+const RESOURCES = {"assets/AssetManifest.bin": "da76d9316c75f7e9513c003f3d896287",
+"assets/AssetManifest.bin.json": "386c27ea16d578683f4d1df4b6660880",
+"assets/AssetManifest.json": "0b46db2a38b9dfe9e9322b120d23aa73",
+"assets/assets/credentials.json": "f90890b96da635dc8be3aec72417e564",
 "assets/assets/fonts/OFL.txt": "17293189e4ca3f79c0bcca524d41ba52",
 "assets/assets/fonts/Poppins-Black.ttf": "14d00dab1f6802e787183ecab5cce85e",
 "assets/assets/fonts/Poppins-BlackItalic.ttf": "e9c5c588e39d0765d30bcd6594734102",
@@ -26,7 +27,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "a3880b25f9734d551931a4b4f63eeb39
 "assets/assets/fonts/Poppins-Thin.ttf": "9ec263601ee3fcd71763941207c9ad0d",
 "assets/assets/fonts/Poppins-ThinItalic.ttf": "01555d25092b213d2ea3a982123722c9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "a5d918cf7977abc06e2a3150e6a341da",
+"assets/fonts/MaterialIcons-Regular.otf": "88ba7741e6124cc4ecae212b6323773a",
 "assets/images/aziz.jpg": "99e47a5d922fd11ae5eaea3a2e498462",
 "assets/images/dipu.jpeg": "7a6a766eb71a53c5757c7b77a3cb9e34",
 "assets/images/download.png": "d77fa0c3f6689cc4ecbe3706238bd0ee",
@@ -36,7 +37,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "a3880b25f9734d551931a4b4f63eeb39
 "assets/images/school_logo.png": "6163d1893991979ee7790b977fb9a89f",
 "assets/images/tanzi.jpeg": "011c07ca3d32fafb6bdcc5384a3674f9",
 "assets/images/ui1.png": "306c9afaa15900dc12d5fef4de30ea83",
-"assets/NOTICES": "ae3cfea0f1dc857dd4a0edc6c884ea8b",
+"assets/NOTICES": "c6c2befda2f7e9165caad4ca6ffefe3a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "728b2d477d9b8c14593d4f9b82b484f3",
@@ -51,14 +52,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "a3880b25f9734d551931a4b4f63eeb39
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "firebase-messaging-sw.js": "db2c05cf9a7d0315701c2d1de9472782",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "53d61d87d72981e9e2dce12ecf82aa4f",
+"flutter_bootstrap.js": "94ef456340844f90b809b79bf8248b71",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "b102dc76e54ba57500734ceee518e952",
 "/": "b102dc76e54ba57500734ceee518e952",
-"main.dart.js": "90de017eaa9a1a038f04d831964b51bf",
+"main.dart.js": "fa2ce230213390dd5bbc029c8aa8782f",
 "manifest.json": "a86d7cf2ba3dca9d48fa4cb7802a4ad1",
 "version.json": "230b47caf1b9b3ba06505099eeb4846f"};
 // The application shell files that are downloaded before a service worker can
